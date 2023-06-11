@@ -1,0 +1,11 @@
+queried-c.elegans-PRMT1.faa e-value: 6.97e-171
+queried-ciliate-PRMT1.faa e-value: 7.00e-101
+queried-drosophila-PRMT1.faa e-value: 0.0
+queried-e.coli-PRMT1.faa e-value: 0.73
+queried-human-PRMT1.faa e-value: 0.0
+queried-methanocaldococcus-PRMT1.faa e-value: 1.52e-11
+queried-mouse-PRMT1.faa e-value: 0.0
+queried-thermococcus-PRMT1.faa e-value: 0.029
+queried-tuberculosis-PRMT1.faa e-value: 0.004
+queried-yeast-PRMT1.faa e-value: 1.84e-114
+queried-zebrafish-PRMT1.faa e-value: 0.0

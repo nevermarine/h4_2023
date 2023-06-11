@@ -1,0 +1,11 @@
+queried-c.elegans-PRMT1.faa hits: 20
+queried-ciliate-PRMT1.faa hits: 14
+queried-drosophila-PRMT1.faa hits: 21
+queried-e.coli-PRMT1.faa hits: 12
+queried-human-PRMT1.faa hits: 116
+queried-methanocaldococcus-PRMT1.faa hits: 23
+queried-mouse-PRMT1.faa hits: 38
+queried-thermococcus-PRMT1.faa hits: 15
+queried-tuberculosis-PRMT1.faa hits: 9
+queried-yeast-PRMT1.faa hits: 9
+queried-zebrafish-PRMT1.faa hits: 48
